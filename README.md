@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/bart-parka/chatgpt-tests/blob/main/logo.jpg?raw=true)
